@@ -1,5 +1,5 @@
 <!-- ![Max McLellan GitHub ReadMe] -->
-<img src="https://user-images.githubusercontent.com/84919546/128417690-3e99a755-e995-44fa-9ed6-3982cf9fd3a3.jpg" width="900">
+<img src="https://user-images.githubusercontent.com/84919546/128417690-3e99a755-e995-44fa-9ed6-3982cf9fd3a3.jpg" width="500">
 
 
 👋 
