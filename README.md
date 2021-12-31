@@ -4,8 +4,7 @@
 
 👋 
 
-Hi, I’m Max. I'm a web developer, music nerd, and lover of all things vegan. After graduating from university with 
-First Class Honours in Music Technology, I realised I wanted to find a place where tech and creativity could meet. I'm studying
+Hi, I’m Max. After graduating from university with First Class Honours in Music Technology, I realised I wanted to find a place where tech and creativity could meet. I'm studying
 with Le Wagon, currently working my way towards a career in development. 
 
 📫 Get in touch via [LinkedIn](https://www.linkedin.com/in/max-mclellan-069863120/) if you'd like to say hello! 🔗
