@@ -5,8 +5,7 @@
 
 👋 
 
-Hi, I’m Max. After graduating from university with First Class Honours in Music Technology, I realised I wanted to find a place where tech and creativity could meet. After studying
-with Le Wagon, I'm continuing my learning and progression towards a career in web development.  
+Hi, I’m Max. After graduating from university with First Class Honours in Music Technology, I realised I wanted to find a place where tech and creativity could meet. I'm continuing my learning and progression towards a career in web development.  
 
 📫 Get in touch via [LinkedIn](https://www.linkedin.com/in/max-mclellan-069863120/) if you'd like to say hello! 🔗
 
